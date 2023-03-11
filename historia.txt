@@ -1,3 +1,7 @@
-Este archivo se crea despues de aplicar RM
+Se realizan los cambios en master para hacer una página sencilla.
+La idea es crear una página sencilla de HTML y estilizar con CSS.
+Luego se procederá a crear branchs: header y footer para agregarlas al master.
 
-Luego se va probar reset.
+La idea es practicar lo que se realiza en master y en las ramas.
+Además la idea es mejorar el HTML y CSS.
+
